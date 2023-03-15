@@ -1,22 +1,20 @@
 # ProOO
+![image](https://www.tijuana.tecnm.mx/wp-content/uploads/2015/01/logo_ITT.png)
+  ## TECNOLÓGICO NACIONAL DE MÉXICO
 
-                                                            ## TECNOLÓGICO NACIONAL DE MÉXICO
+  #### INSTITUTO TECNOLÓGICO DE TIJUANA
+  #### SUBDIRECCIÓN ACADÉMICA
 
-                                                           ## INSTITUTO TECNOLÓGICO DE TIJUANA
-                                                                #SUBDIRECCIÓN ACADÉMICA
-
-                                                        ## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
-                                                              #PERIODO: Enero-Junio 2023
-
-
-                                                            ## ING. Sistemas Computacionales
-                                                           ## Programacion Orientado Objetos
+## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+#### PERIODO: Enero-Junio 2023
 
 
+## ING. Sistemas Computacionales
+#### Programacion Orientado Objetos
 
-                                                                      ## 22211517
-                                                              ## Alonso Villela Iker Saul
 
 
-                                                                                                        #### Tijuana B.C a 26  de Febrero del 2023
+## Alonso Villela Iker Saul
+#### 22211517
+
 
