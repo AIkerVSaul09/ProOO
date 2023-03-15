@@ -18,4 +18,8 @@ Características de los objetos en smalltalk: --Tienen una memoria propia. --Pos
 En programación, una abstracción es una manera de reducir la complejidad y permitir un diseño e implementación más eficientes en sistemas de software complejos. Es el proceso por el cual se descarta toda aquella información que no resulta relevante en un contexto en particular enfatizando algunos de los detalles o propiedades de los objetos. Basicamnete hace que el codigo no sea muy repetitivo y no utilice mucha memoria dentro la consola.
 
 # Encapsulamiento
+La encapsulación es un mecanismo para reunir datos y métodos dentro de una estructura ocultando la implementación del objeto, es decir, impidiendo el acceso a los datos por cualquier medio que no sean los servicios propuestos.
 
+Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
+
+![Imagen](
