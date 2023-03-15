@@ -61,5 +61,10 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 
 ![IMAGEN5](https://images.edrawsoft.com/articles/aggregation-vs-composition/5-composition-in-uml.png)
 
+-La Agregación es muy parecida a la composición, sin embargo no es tan fuerte o tan pura ya que si la clase PADRE no tiene una agregación no pierde mucho sentido.
+
+![IMAGEN6](https://images.edrawsoft.com/articles/aggregation-vs-composition/4-aggregations-in-uml.png)
+
+
 
 
