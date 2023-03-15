@@ -56,3 +56,5 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 -Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).
 
 ![IMAGEN4](https://images.edrawsoft.com/articles/aggregation-vs-composition/reflexive-association.png)
+
+-La Composición indica que una clase solo puede estar compuesta por la clase indicada, y si se destruye la clase PADRE, se destruye también su composición.
