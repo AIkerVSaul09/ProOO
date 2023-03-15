@@ -14,4 +14,8 @@ Todo en smalltalk es un objeto que puede hacer 3 cosas: --Mantener un estado. --
 
 Características de los objetos en smalltalk: --Tienen una memoria propia. --Poseen capacidad para comunicarse con otros objetos. --Poseen la capacidad de heredar características de objetos ancestros. --Tienen capacidad de procesamiento.
 
+# Abstraccion
+En programación, una abstracción es una manera de reducir la complejidad y permitir un diseño e implementación más eficientes en sistemas de software complejos. Es el proceso por el cual se descarta toda aquella información que no resulta relevante en un contexto en particular enfatizando algunos de los detalles o propiedades de los objetos. Basicamnete hace que el codigo no sea muy repetitivo y no utilice mucha memoria dentro la consola.
+
+# Encapsulamiento
 
