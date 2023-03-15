@@ -37,3 +37,20 @@ La herencia, junto con la encapsulación y el polimorfismo, es una de las tres c
 ![Imagen3](https://lh3.googleusercontent.com/nVpYEGH-S9y40tn0tB0rafK3_6i3ZLlYDyfNbsP_C7v3a7yshiyrP8SrLdnUZ2UR1fpGyVaR9Wf-uE9lEtqjeCRhk9HsIkd4wtLATpt4ZCOyNdrUl09sPf37YqIoDZnJAh9k5TeqTr5oYJx3QlnR4cKLAGEDxh6POk5DP2QW175Npo7G-KBf3-NGwwLWupOBokuOZRGn6wgT_35oXlCWwlc_4UjPG6zZqGDSdzZ63wLE4Aba0u1pnZ-6MwPosyGfA_3T0omLcdjh82EP6lBiHvRlNWiSa9d9Qac_teYv7Ww4gT-uP0KcLYUx2qdMO7JPp7y2t4S7NcbSfGsk7SLb7AH-zwcExNjHTsQVu2YG7tMlkwTljAP6BxWlLXOXiOpZAJr4gbx1xgBj-7gBSv4DGZdnWrkdcbWSa6IqTjaKB1YI7QStAwRk_zyri2CKrVWelbW_Hy_tcL2V4okgZgD-oVSEUFb9FYQEw9_MN9j3N36m1JaJEXb6d5YSQPfOq0kVUnZttw4wVCmx61e_QIrIguoVrlM2CmxOR_mmnx4AFMAoajfWStMyDe9B32moLCfJj0lJK1janDX5BFVKqj-uHHubjtqm3xLg_AXam4hFAWVzVbbDhdF2=w634-h463-no)
 
 (La herencia es la transmisión del código entre unas clases y otras. Para soportar un mecanismo de herencia tenemos dos clases: la clase padre y la/s clase/s hija/s. La clase padre es la que transmite su código a las clases hijas. En muchos lenguajes de programación se declara la herencia con la palabra "extends".)
+
+
+# UML: Diagrama de clases
+
+El diagrama de distribución UML muestra la arquitectura física de un sistema informático. Puede representar a los equipos y a los dispositivos, y también mostrar sus interconexiones y el software que se encontrará en cada máquina. La asociación se refiere a la conexión física entre los nodos, como por ejemplo Ethernet.
+
+--El modelo funcional, representado en UML, con diagramas de caso de uso, describe la funcionalidad del sistema desde el punto de vista del usuario.
+
+--El modelo de objetos, representado en UML con diagramas de clase, describe la estructura de un sistema desde el punto de vista de objetos, atributos, asociaciones y operaciones.
+
+--El modelo dinámico, representado en UML con diagramas de secuencia, diagramas de estado y diagramas de actividad, describen el comportamiento interno del sistema. Los diagramas de secuencia describen el comportamiento como una secuencia de mensajes intercambiados entre un conjunto de objetos, mientras que los diagramas de gráfica de estado describen el comportamiento desde el punto de vista de estados de un objeto individual y las transiciones posibles entre estados.
+
+Actualmente el UML es muy utilizado por empresas grandes que se dedican o utilizan algun software por la gran facilidad de entender el objetivo de los programas por medio de un recurso visual, más que nada para darlo a entender a las personas que no estan familiarizadas con el tema de la programación. Por ejemplo APPLE, AMAZON, SPACE X, TESLA MOTORS, NVIDIA, etc.
+
+Ya que el UML es un modelo a seguir, consta de herramientas con significados especiales como lo son sus conexiones o conectores. Dentro de estas herramientas, los conectores más comúnes son:
+
+-Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).
