@@ -76,3 +76,11 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 La propuesta que yo propongo es una tienda donde se puedan comprar Articulos Deportivos de cualquier tipo, por ejemplo; Tennis, Guantes de Porteros, Medias, Balones, Vendas, Pelotas, entre otras cosas, sera especificamnte para cualquier tipo de deporte, seria una tienda deportiva en pocas palabras. 
 
 ![imagen8](https://github.com/AIkerVSaul09/ProOO/blob/main/ParadigmaOO/MexFut.jpg?raw=true)
+
+
+#### Referencias
+ [^1] https://datascientest.com/es/encapsulacion-definicion-e-importancia
+* https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
+* https://edukativos.com/apuntes/archives/3707
+* https://ifgeekthen.nttdata.com/es/herencia-en-programacion-orientada-objetos
+* https://profile.es/blog/que-son-los-paradigmas-de-programacion/#:~:text=%C2%BFQu%C3%A9%20es%20un%20paradigma%20de,resultados%20que%20necesitan%20los%20programadores.
