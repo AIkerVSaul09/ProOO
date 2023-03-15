@@ -18,7 +18,7 @@
 #### 22211517
 
 
-# INDICE
-+[Practica 1: Clase Producto](https://drive.google.com/file/d/14l1HV0BSngXDpa6JSTKWe3LnzUsTVzOa/view)(br)
+# INDICE:
++[Practica 1: Clase Producto](https://drive.google.com/file/d/14l1HV0BSngXDpa6JSTKWe3LnzUsTVzOa/view)
 +[Tarea UML](https://drive.google.com/file/d/1iUbzBGmO0aXCfMTtP2sJ-Ori0Jtp_ybS/view)
 +[Domino](https://github.com/AIkerVSaul09/Dominoes)
