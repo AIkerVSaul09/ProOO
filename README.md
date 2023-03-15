@@ -5,7 +5,7 @@
   #### INSTITUTO TECNOLÓGICO DE TIJUANA
   #### SUBDIRECCIÓN ACADÉMICA
 
-## --------------------------------DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN---------------------
+## --------------------------------DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN-----------------
 #### PERIODO: Enero-Junio 2023
 
 
