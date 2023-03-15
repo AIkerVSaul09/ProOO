@@ -65,6 +65,8 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 
 ![IMAGEN6](https://images.edrawsoft.com/articles/aggregation-vs-composition/4-aggregations-in-uml.png)
 
+-La Generalización es como se representa la herencia, la cual va de los mas general a lo específico. Puede haber una generalización o generalización múltiple.
 
+![IMAGEN7](https://edukativos.com/apuntes/wp-content/uploads/2013/08/Herencia-de-clases-en-UML.jpg)
 
 
