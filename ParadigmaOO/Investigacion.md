@@ -70,3 +70,6 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 ![IMAGEN7](https://edukativos.com/apuntes/wp-content/uploads/2013/08/Herencia-de-clases-en-UML.jpg)
 
 
+# Propuesta de Maquina (Vender Articulos)
+
+
