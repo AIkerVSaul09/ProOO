@@ -1,9 +1,9 @@
 # ProOO
 ![image](https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-1568x479.jpg)
-  ## -------------------------------------TECNOLÓGICO NACIONAL DE MÉXICO--------------------------------------
+  ## ----------------------------------TECNOLÓGICO NACIONAL DE MÉXICO------------------------
 
-  #### INSTITUTO TECNOLÓGICO DE TIJUANA
-  #### SUBDIRECCIÓN ACADÉMICA
+  #### ------------------------------INSTITUTO TECNOLÓGICO DE TIJUANA-------------------------
+  #### -------------------------------SUBDIRECCIÓN ACADÉMICA---------------------------------
 
 ## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
 #### PERIODO: Enero-Junio 2023
