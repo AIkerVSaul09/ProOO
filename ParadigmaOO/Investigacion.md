@@ -70,6 +70,8 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 ![IMAGEN7](https://edukativos.com/apuntes/wp-content/uploads/2013/08/Herencia-de-clases-en-UML.jpg)
 
 
+
 # Propuesta de Maquina (Vender Articulos)
 
+La propuesta que yo propongo es una tienda donde se puedan comprar Articulos Deportivos de cualquier tipo, por ejemplo; Tennis, Guantes de Porteros, Medias, Balones, Vendas, Pelotas, entre otras cosas, sera especificamnte para cualquier tipo de deporte, seria una tienda deportiva en pocas palabras. 
 
