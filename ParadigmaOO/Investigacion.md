@@ -22,4 +22,8 @@ La encapsulación es un mecanismo para reunir datos y métodos dentro de una est
 
 Es el proceso de almacenar en una misma sección los elementos de una abstracción que constituyen su estructura y su comportamiento; sirve para separar el interfaz contractual de una abstracción y su implantación.
 
-![Imagen](
+![Imagen](https://ferestrepoca.github.io/paradigmas-de-programacion/poo/poo_teoria/images/classpython.png)
+(Podemos decir que este codigo no esta Encapsulado, ya que su variables estan declaradas directamente en el dato)
+
+![Imagen2](https://www.ciberaula.com/imagenes/enc_1.PNG)
+(
