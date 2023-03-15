@@ -75,4 +75,4 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 
 La propuesta que yo propongo es una tienda donde se puedan comprar Articulos Deportivos de cualquier tipo, por ejemplo; Tennis, Guantes de Porteros, Medias, Balones, Vendas, Pelotas, entre otras cosas, sera especificamnte para cualquier tipo de deporte, seria una tienda deportiva en pocas palabras. 
 
-![imagen8](https://drive.google.com/drive/u/1/my-drive)
+![imagen8](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G19psqhUH_tUh1V6O_Nq1avNM1FpPPSzBL)
