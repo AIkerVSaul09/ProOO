@@ -58,3 +58,8 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 ![IMAGEN4](https://images.edrawsoft.com/articles/aggregation-vs-composition/reflexive-association.png)
 
 -La Composición indica que una clase solo puede estar compuesta por la clase indicada, y si se destruye la clase PADRE, se destruye también su composición.
+
+![IMAGEN5](https://images.edrawsoft.com/articles/aggregation-vs-composition/5-composition-in-uml.png)
+
+
+
