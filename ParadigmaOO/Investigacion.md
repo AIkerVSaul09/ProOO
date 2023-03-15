@@ -79,7 +79,7 @@ La propuesta que yo propongo es una tienda donde se puedan comprar Articulos Dep
 
 
 #### Referencias
- [^1] https://datascientest.com/es/encapsulacion-definicion-e-importancia
+* https://datascientest.com/es/encapsulacion-definicion-e-importancia
 * https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
 * https://edukativos.com/apuntes/archives/3707
 * https://ifgeekthen.nttdata.com/es/herencia-en-programacion-orientada-objetos
